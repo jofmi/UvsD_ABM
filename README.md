@@ -4,7 +4,7 @@
 
 **Corresponding Publication**
 
-Foramitti, J., Savin, I., & van den Bergh, J. (2021). Regulation at the source? Comparing upstream and downstream climate policies. Technological Forecasting and Social Change. Forthcoming.
+Foramitti, J., Savin, I., & van den Bergh, J. (2021). Regulation at the source? Comparing upstream and downstream climate policies. Technological Forecasting and Social Change, 172, 121060. https://doi.org/10.1016/j.techfore.2021.121060
 
 **Abstract**
 
